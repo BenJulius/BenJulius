@@ -1,6 +1,6 @@
-# Hi, I'm Ben Julius 👋
+# Hi, I'm Ben Julius 
 
-**IT Support Associate | Cloud & Operations Specialist**
+**Lead On Road Execution**
 
 I'm a detail-oriented IT professional transitioning from a high-stakes logistics background into cloud and infrastructure support. I enjoy building hands-on projects that explore cloud platforms, security hardening, and automation — and I'm actively working toward industry certifications to back it all up.
 
@@ -10,26 +10,33 @@ I'm a detail-oriented IT professional transitioning from a high-stakes logistics
 
 ---
 
+## Education
+
+**Southern New Hampshire University**
+
+* **B.S. in Information Technology** | *Expected Oct 2026*
+* **A.S. in Information Technology** | *Conferred May 2025*
+
+---
+
 ## Skills & Tools
 
 | Area | Technologies |
 |---|---|
-| Scripting | PowerShell |
-| Cloud | Microsoft Azure (VMs, NSGs, SSH, static hosting) |
-| Linux | Ubuntu, Nginx, SSH hardening |
-| Backend / Database | Supabase (Auth, RLS, Row-Level Security) |
-| Web | HTML, CSS, JavaScript |
-| Certifications | CompTIA A+ *(in progress)*, Azure 900 *(in progress)* |
+| **Scripting** | PowerShell, Python |
+| **Cloud** | Microsoft Azure (VMs, NSGs, SSH, Static Hosting) |
+| **Linux/Web** | Ubuntu, Nginx, SSH Hardening, HTML/CSS |
+| **Databases** | SQL |
+| **Certifications** | Google IT Support, CompTIA A+ *(In Progress)* |
 
 ---
 
-## 📌 Pinned Projects
+## Projects
 
-| Project | Description |
-|---|---|
-| [benjulius.dev](https://benjulius.dev) ([source](https://github.com/BenJulius/BenJulius.github.io)) | Personal IT support portfolio — built with HTML & CSS, hosted via Azure static hosting |
-| [vuln-scanner-lite](https://github.com/BenJulius/vuln-scanner-lite) | A lightweight, conceptual vulnerability scanner written in Python |
+### [Portfolio](https://benjulius.dev)  
+Built with HTML & CSS to showcase technical documentation and project deployment.
+
+### [vuln-scanner-lite](https://github.com/BenJulius/vuln-scanner-lite)  
+A lightweight, conceptual vulnerability scanner written in Python for identifying open ports and service versions.
 
 ---
-
-*"If it's broken, I'll find out why. If it's working, I'll find out how."*
