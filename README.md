@@ -27,7 +27,7 @@ I'm a detail-oriented IT professional transitioning from a high-stakes logistics
 
 | Project | Description |
 |---|---|
-| [benjulius.dev](https://github.com/BenJulius/BenJulius.github.io) | Personal IT support portfolio — built with HTML & CSS, hosted via Azure static hosting |
+| [benjulius.dev](https://benjulius.dev) ([source](https://github.com/BenJulius/BenJulius.github.io)) | Personal IT support portfolio — built with HTML & CSS, hosted via Azure static hosting |
 | [vuln-scanner-lite](https://github.com/BenJulius/vuln-scanner-lite) | A lightweight, conceptual vulnerability scanner written in Python |
 
 ---
