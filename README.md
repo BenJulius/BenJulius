@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ben Julius 👋
 
-<!--
-**BenJulius/BenJulius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT Support Associate | Cloud & Operations Specialist**
 
-Here are some ideas to get you started:
+I'm a detail-oriented IT professional transitioning from a high-stakes logistics background into cloud and infrastructure support. I enjoy building hands-on projects that explore cloud platforms, security hardening, and automation — and I'm actively working toward industry certifications to back it all up.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Portfolio:** [benjulius.dev](https://benjulius.dev)
+📍 Greater Boston & Providence area
+📬 [LinkedIn](https://www.linkedin.com/in/ben-julius/) · [Email](mailto:iambenjulius@gmail.com)
+
+---
+
+## Skills & Tools
+
+| Area | Technologies |
+|---|---|
+| Scripting | PowerShell |
+| Cloud | Microsoft Azure (VMs, NSGs, SSH, static hosting) |
+| Linux | Ubuntu, Nginx, SSH hardening |
+| Backend / Database | Supabase (Auth, RLS, Row-Level Security) |
+| Web | HTML, CSS, JavaScript |
+| Certifications | CompTIA A+ *(in progress)*, Azure 900 *(in progress)* |
+
+---
+
+## 📌 Pinned Projects
+
+| Project | Description |
+|---|---|
+| [benjulius.dev](https://github.com/BenJulius/BenJulius.github.io) | Personal IT support portfolio — built with HTML & CSS, hosted via Azure static hosting |
+| [vuln-scanner-lite](https://github.com/BenJulius/vuln-scanner-lite) | A lightweight, conceptual vulnerability scanner written in Python |
+
+---
+
+*"If it's broken, I'll find out why. If it's working, I'll find out how."*
