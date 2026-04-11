@@ -35,6 +35,9 @@ I'm a detail-oriented IT graduate transitioning from a high-stakes logistics bac
 ### [Vuln Scanner Lite](https://github.com/BenJulius/vuln-scanner-lite)  
 A lightweight, conceptual vulnerability scanner written in Python for identifying open ports and service versions.
 
+### [Winops Sentinel](https://github.com/BenJulius/winops-sentinel)
+A PowerShell automation tool that audits Windows security baselines via GitHub Actions and deploys a live HTML dashboard to GitHub Pages.
+
 ### [Shadow Log](https://github.com/BenJulius/shadow-log)
 A lightweight Python security auditor for mapping network telemetry to system processes.
 
