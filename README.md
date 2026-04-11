@@ -32,10 +32,13 @@ I'm a detail-oriented IT graduate transitioning from a high-stakes logistics bac
 
 ## Projects
 
+### [Vuln Scanner Lite](https://github.com/BenJulius/vuln-scanner-lite)  
+A lightweight, conceptual vulnerability scanner written in Python for identifying open ports and service versions.
+
+### [Shadow Log](https://github.com/BenJulius/shadow-log)
+A lightweight Python security auditor for mapping network telemetry to system processes.
+
 ### [Portfolio](https://benjulius.dev)  
 Built with HTML & CSS to showcase technical documentation and project deployment.
-
-### [vuln-scanner-lite](https://github.com/BenJulius/vuln-scanner-lite)  
-A lightweight, conceptual vulnerability scanner written in Python for identifying open ports and service versions.
 
 ---
