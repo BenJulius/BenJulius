@@ -23,11 +23,10 @@ I'm a detail-oriented IT professional transitioning from a high-stakes logistics
 
 | Area | Technologies |
 |---|---|
-| **Scripting** | PowerShell, Python |
-| **Cloud** | Microsoft Azure (VMs, NSGs, SSH, Static Hosting) |
-| **Linux/Web** | Ubuntu, Nginx, SSH Hardening, HTML/CSS |
-| **Databases** | SQL |
-| **Certifications** | Google IT Support, CompTIA A+ *(In Progress)* |
+| **Languages** | PowerShell, Python, SQL, HTML/CSS |
+| **Platform / Cloud** | Microsoft Azure (IaaS), Static Site Hosting |
+| **Linux & DevOps** | Ubuntu Server, Nginx Web Server, SSH Hardening |
+| **Certifications** | Google IT Support Professional, CompTIA A+ *(In Progress)* |
 
 ---
 
