@@ -2,7 +2,7 @@
 
 **Lead On Road Execution**
 
-I'm a detail-oriented IT professional transitioning from a high-stakes logistics background into cloud and infrastructure support. I enjoy building hands-on projects that explore cloud platforms, security hardening, and automation — and I'm actively working toward industry certifications to back it all up.
+I'm a detail-oriented IT graduate transitioning from a high-stakes logistics background into cloud and infrastructure support. I enjoy building hands-on projects that explore cloud platforms, security hardening, and automation.
 
 🌐 **Portfolio:** [benjulius.dev](https://benjulius.dev)
 📍 Greater Boston & Providence area
