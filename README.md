@@ -41,7 +41,7 @@ A lightweight Python security auditor for mapping network telemetry to system pr
 ### [Vuln Scanner Lite](https://github.com/BenJulius/vuln-scanner-lite)
 A lightweight, conceptual vulnerability scanner written in Python for identifying open ports and service versions.
 
-### [Professional Portfolio](https://github.com/BenJulius/BenJulius.github.io) | [benjulius.dev](https://benjulius.dev)
+### [Professional Portfolio](https://github.com/BenJulius/Portfolio) | [benjulius.dev](https://benjulius.dev)
 Custom-built portfolio site showcasing technical documentation and cloud deployment.
 * **Technical Highlight:** Managed DNS infrastructure using Names.com to link a custom .dev domain to GitHub Pages via A and CNAME records.
 
