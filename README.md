@@ -32,16 +32,17 @@ I'm a detail-oriented IT graduate transitioning from a high-stakes logistics bac
 
 ## Projects
 
-### [Vuln Scanner Lite](https://github.com/BenJulius/vuln-scanner-lite)  
-A lightweight, conceptual vulnerability scanner written in Python for identifying open ports and service versions.
-
-### [Winops Sentinel](https://github.com/BenJulius/winops-sentinel)
+### [WinOps Sentinel](https://github.com/BenJulius/winops-sentinel) | [Live Dashboard](https://benjulius.dev/winops-sentinel/)
 A PowerShell automation tool that audits Windows security baselines via GitHub Actions and deploys a live HTML dashboard to GitHub Pages.
 
 ### [Shadow Log](https://github.com/BenJulius/shadow-log)
 A lightweight Python security auditor for mapping network telemetry to system processes.
 
-### [Portfolio](https://benjulius.dev)  
-Built with HTML & CSS to showcase technical documentation and project deployment.
+### [Vuln Scanner Lite](https://github.com/BenJulius/vuln-scanner-lite)
+A lightweight, conceptual vulnerability scanner written in Python for identifying open ports and service versions.
+
+### [Professional Portfolio](https://github.com/BenJulius/BenJulius.github.io) | [benjulius.dev](https://benjulius.dev)
+Custom-built portfolio site showcasing technical documentation and cloud deployment.
+* **Technical Highlight:** Managed DNS infrastructure using Names.com to link a custom .dev domain to GitHub Pages via A and CNAME records.
 
 ---
