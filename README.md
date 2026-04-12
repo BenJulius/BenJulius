@@ -32,7 +32,7 @@ I'm a detail-oriented IT graduate transitioning from a high-stakes logistics bac
 
 ## Projects
 
-### [WinOps Sentinel](https://github.com/BenJulius/winops-sentinel) | [Live Dashboard](https://benjulius.dev/winops-sentinel/)
+### [WinOps Sentinel](https://github.com/BenJulius/winops-sentinel) | [Live Dashboard](https://benjulius.github.io/winops-sentinel/)
 A PowerShell automation tool that audits Windows security baselines via GitHub Actions and deploys a live HTML dashboard to GitHub Pages.
 
 ### [Shadow Log](https://github.com/BenJulius/shadow-log)
