@@ -32,6 +32,9 @@ I'm a detail-oriented IT graduate transitioning from a high-stakes logistics bac
 
 ## Projects
 
+### [Focus Timer](https://github.com/BenJulius/focus-timer) | [App](https://benjulius.github.io/focus-timer/)
+A mobile-responsive timer that uses a slot machine mechanic to determine break activities.
+
 ### [WinOps Sentinel](https://github.com/BenJulius/winops-sentinel) | [Live Dashboard](https://benjulius.github.io/winops-sentinel/)
 A PowerShell automation tool that audits Windows security baselines via GitHub Actions and deploys a live HTML dashboard to GitHub Pages.
 
