@@ -32,6 +32,9 @@ I'm a detail-oriented IT graduate transitioning from a high-stakes logistics bac
 
 ## Projects
 
+### [Delivery Performance Dashboard](https://github.com/BenJulius/Delivery-Performance-and-DPMO-Tracker)
+Real-time logistics KPI dashboard. Features dynamic DPMO calculation, delivery failure tracking, and automated root-cause analysis.
+
 ### [Focus Timer](https://github.com/BenJulius/focus-timer) | [App](https://benjulius.github.io/focus-timer/)
 A mobile-responsive timer that uses a slot machine mechanic to determine break activities.
 
